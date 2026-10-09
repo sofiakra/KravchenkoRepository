@@ -1,1 +1,2 @@
 I love ice cream
+I am learning Git and GitHub
